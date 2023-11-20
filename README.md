@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 - 🌱 I'm currently pursuing Master of Science in Business Analytics from UT Austin- McCombs School of Business
 
-- 👯 I’m looking to collaborate on **Machine Learning projects**
+- 👯 I’m looking to having conversations related to **Business applied data science**
 
-- 📫 How to reach me **rahullborana@utexas.edu**
+- 📫 You can reach me at **rahullborana@utexas.edu**
 
 - ⚡ Fun fact **I like trekking in the Himalayas!**
 

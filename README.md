@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Rahull Borana</h1>
-<h3 align="center">I like to use data science to analyze and automate business problems</h3>
+<h3 align="center">I am proficient in Applied Data Science. I love to bridge the gap between understanding the problems in Business Functions and applying the statistical techniques/ models and visualizations.</h3>
 
 - 🌱 I'm currently pursuing Master of Science in Business Analytics from UT Austin- McCombs School of Business
 
